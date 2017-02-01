@@ -4,6 +4,9 @@ A model of our solar system
 
 Solor System Model Project
 
+
+Solor System Model Project
+
 The goal of this project is to primaraly use HTML5 and CSS3 (with some JQuery) to create a horizontal website model of the universe where every-so-pixels = so many space-mesurement (AU or miles or Light years). Images of planets will be realitive (but not exact) scale (unless we can do it easily). You will use a scroll feature to speed up the scroll to your chosen planet.
 The Astroid Belt, with Ceres, a dwarf planet, will also be referenced.
 
@@ -98,31 +101,31 @@ asteroids: https://pixabay.com/en/space-asteroids-planets-cosmos-1422642/
 
 APA CITATION
 _____
-Soloar System---APA Citation: Solar System. (2016, December 31). In Wikipedia, The Free Encyclopedia. Retrieved 23:12, December 31, 2016, from https://en.wikipedia.org/w/index.php?title=Solar_System&oldid=757656973
+Soloar System---APA Citation: Solar System. (2016, December 31). In Wikipedia, The Free Encyclopedia. Retrieved 23:12, Jaunuary 5, 2016, from https://en.wikipedia.org/w/index.php?title=Solar_System&oldid=757656973
 
-Sun--APA Citation: Sun. (2016, December 18). In Wikipedia, The Free Encyclopedia. Retrieved 12:57, December 18, 2016, from https://en.wikipedia.org/w/index.php?title=Sun&oldid=755505606
+Sun--APA Citation: Sun. (2016, December 18). In Wikipedia, The Free Encyclopedia. Retrieved 12:57, Jaunuary 5, 2016, from https://en.wikipedia.org/w/index.php?title=Sun&oldid=755505606
 
-Mercury---APA Citation: Mercury (planet). (2016, December 26). In Wikipedia, The Free Encyclopedia. Retrieved 10:31, December 26, 2016, from https://en.wikipedia.org/w/index.php?title=Mercury_(planet)&oldid=756717033
+Mercury---APA Citation: Mercury (planet). (2016, December 26). In Wikipedia, The Free Encyclopedia. Retrieved 10:31, Jaunuary 5, 2016, from https://en.wikipedia.org/w/index.php?title=Mercury_(planet)&oldid=756717033
 
 
-Venus---APA Citation: Venus. (2016, December 21). In Wikipedia, The Free Encyclopedia. Retrieved 16:34, December 21, 2016, from https://en.wikipedia.org/w/index.php?title=Venus&oldid=756034881
+Venus---APA Citation: Venus. (2016, December 21). In Wikipedia, The Free Encyclopedia. Retrieved 16:34, Jaunuary 5, 2016, from https://en.wikipedia.org/w/index.php?title=Venus&oldid=756034881
 
-Earth---APA Citation: Earth. (2017, January 2). In Wikipedia, The Free Encyclopedia. Retrieved 18:30, January 2, 2017, from https://en.wikipedia.org/w/index.php?title=Earth&oldid=757960956
+Earth---APA Citation: Earth. (2017, January 2). In Wikipedia, The Free Encyclopedia. Retrieved 18:30, Jaunuary 5, 2016, from https://en.wikipedia.org/w/index.php?title=Earth&oldid=757960956
 
-Mars---APA Citation: Mars. (2017, January 4). In Wikipedia, The Free Encyclopedia. Retrieved 02:29, January 4, 2017, from https://en.wikipedia.org/w/index.php?title=Mars&oldid=758207033
+Mars---APA Citation: Mars. (2017, January 4). In Wikipedia, The Free Encyclopedia. Retrieved 02:29, Jaunuary 6, 2016, from https://en.wikipedia.org/w/index.php?title=Mars&oldid=758207033
 
 Asteroid belt
 
-Ceres---APA Citation: Ceres (dwarf planet). (2017, January 4). In Wikipedia, The Free Encyclopedia. Retrieved 07:33, January 4, 2017, from https://en.wikipedia.org/w/index.php?title=Ceres_(dwarf_planet)&oldid=758238210
+Ceres---APA Citation: Ceres (dwarf planet). (2017, January 4). In Wikipedia, The Free Encyclopedia. Retrieved 07:33, Jaunuary 6, 2016, from https://en.wikipedia.org/w/index.php?title=Ceres_(dwarf_planet)&oldid=758238210
 
-Jupiter---APA Citation: Jupiter. (2016, November 29). In Wikipedia, The Free Encyclopedia. Retrieved 14:50, November 29, 2016, from https://en.wikipedia.org/w/index.php?title=Jupiter&oldid=752104297
-
-
-Saturn---APA Citation: Saturn. (2016, December 31). In Wikipedia, The Free Encyclopedia. Retrieved 22:49, December 31, 2016, from https://en.wikipedia.org/w/index.php?title=Saturn&oldid=757654511
-
-Uranus---APA Citation: Uranus. (2016, December 24). In Wikipedia, The Free Encyclopedia. Retrieved 07:41, December 24, 2016, from https://en.wikipedia.org/w/index.php?title=Uranus&oldid=756445048
-
-Neptune---APA citation: Neptune. (2016, December 29). In Wikipedia, The Free Encyclopedia. Retrieved 10:39, December 29, 2016, from https://en.wikipedia.org/w/index.php?title=Neptune&oldid=757200020
+Jupiter---APA Citation: Jupiter. (2016, November 29). In Wikipedia, The Free Encyclopedia. Retrieved 14:50, Jaunuary 5, 2016, from https://en.wikipedia.org/w/index.php?title=Jupiter&oldid=752104297
 
 
-Pluto and Charon---APA Citation: Pluto. (2016, December 23). In Wikipedia, The Free Encyclopedia. Retrieved 05:57, December 23, 2016, from https://en.wikipedia.org/w/index.php?title=Pluto&oldid=756289418
+Saturn---APA Citation: Saturn. (2016, December 31). In Wikipedia, The Free Encyclopedia. Retrieved 22:49, Jaunuary 5, 2016, from https://en.wikipedia.org/w/index.php?title=Saturn&oldid=757654511
+
+Uranus---APA Citation: Uranus. (2016, December 24). In Wikipedia, The Free Encyclopedia. Retrieved 07:41, Jaunuary 6, 2016, from https://en.wikipedia.org/w/index.php?title=Uranus&oldid=756445048
+
+Neptune---APA citation: Neptune. (2016, December 29). In Wikipedia, The Free Encyclopedia. Retrieved 10:39, Jaunuary 6, 2016, from https://en.wikipedia.org/w/index.php?title=Neptune&oldid=757200020
+
+
+Pluto and Charon---APA Citation: Pluto. (2016, December 23). In Wikipedia, The Free Encyclopedia. Retrieved 05:57, Jaunuary 6, 2016, from https://en.wikipedia.org/w/index.php?title=Pluto&oldid=756289418
