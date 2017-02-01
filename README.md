@@ -1,27 +1,21 @@
 # SolarSystem
 A model of our solar system
 
-
-Solor System Model Project
-
-
-Solor System Model Project
-
-The goal of this project is to primaraly use HTML5 and CSS3 (with some JQuery) to create a horizontal website model of the universe where every-so-pixels = so many space-mesurement (AU or miles or Light years). Images of planets will be realitive (but not exact) scale (unless we can do it easily). You will use a scroll feature to speed up the scroll to your chosen planet.
+The goal of this project is to primaraly use HTML5 and CSS3 (with some JQuery) to create a horizontal website model of the universe where every-so-pixels = so many space-mesurement (AU). Images of planets will be realitive (but not exact) scale. You will use a scroll feature to speed up the scroll to your chosen planet.
 The Astroid Belt, with Ceres, a dwarf planet, will also be referenced.
 
 You will see the planet spinning and any of its moons spinning around it (for those with many satilites we will use the most famous). When you hover over a moon or planet then the animation of the spinning will pause.
 
-moons will be css3 circles except for our moon
+moons will be css3 circles except for our moon unless desided later.
 
 Clicking on a planet, or moon, will change to a page with information about the planet. If a moon is clicked it will go to the planet's page but to the section where its moon is described.
 
 Information will be pulled from Wikipedia for the most part, and link to the article posted.
 
 The home page will have links on the bottom to 'jump' to the different planets in the model. These links will be a mini linar soloar system with images. If you hover over a planet it will show its name.
-In mobile, this will be on the longest side. Or a seperate menu.
+In mobile, this will be hidden below with a button to pop it up.
 
-The website's menu will be a 'hamburger' menu in the top left that will expand with links to each planet's individual page and an about page where citations will be listed and any site changes in a site log.
+The website's menu will be a 'hamburger' menu in the top right that will expand with links to each planet's individual page and an about page where citations will be listed and any site changes in a site log.
 
 Individual pages will have the
 name,
@@ -60,10 +54,12 @@ Saturn = 75500 (AU)
 Uranus = 96000
 Neptune = 150500
 Pluto = 195000
+
 NEEDED INFORMATION
 -------
 *year and day are taken from their individual pages
 *fun facts with a * are taken from their individual pages
+
 NAME --- CLASS --- DISTANCE --- YEAR* --- DAY* --- SATILITES --- Fun Fact*
 Sun - the radius of the Sun is 0.0047 AU -[ It takes the Solar System about 225–250 million years to complete one orbit through the Milky Way (a galactic year)]- 28d - 8 Main Planets
 
@@ -94,7 +90,6 @@ Like Uranus, Pluto rotates on its "side" in its orbital plane, with an axial til
 RESORCES
 _________
 Planets: https://pixabay.com/en/sun-planet-solar-system-cosmos-1506019/
-Ceres: https://pixabay.com/en/isolated-transparent-plan-sphere-1513335/#
 moon: https://pixabay.com/en/astronomy-full-moon-luna-moon-1869760/
 asteroids: https://pixabay.com/en/space-asteroids-planets-cosmos-1422642/
 
