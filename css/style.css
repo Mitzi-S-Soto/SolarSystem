@@ -46,16 +46,21 @@ body {
     content: "";
     display: table; }
 
+header {
+  position: fixed;
+  z-index: 100; }
+
 #footwrap {
   color: #111;
   height: 50px;
   width: 100%;
   position: fixed;
   bottom: 0px;
-  background: #82828a; }
+  background: #82828a;
+  z-index: 100; }
 
 /* LAYOUTS */
-.planet, #thesun, #mercury {
+.planet, #thesun, #mercury, #venus, #earth {
   display: inline-block;
   border-radius: 100%;
   position: absolute;
@@ -63,10 +68,10 @@ body {
 
 /* MODULES */
 #thesun {
-  width: 127px;
-  height: 127px;
-  margin-top: -73px;
-  margin-left: -127px;
+  width: 300px;
+  height: 500px;
+  margin-top: -250px;
+  margin-left: -273px;
   background: #e0900c;
   box-shadow: 0 0 50px #e0900c;
   -webkit-animation: sunflair 3s infinite alternate;
@@ -80,17 +85,37 @@ body {
   margin-top: -15.5px;
   left: 2000px; }
   #mercury img {
-    -webkit-animation: rotate 88s linear infinite normal;
-    animation: rotate 88s linear infinite normal; }
+    -webkit-animation: rotate 88s linear infinite reverse;
+    animation: rotate 88s linear infinite reverse; }
+
+/*Venus and its moons (there are no moons) */
+#venus {
+  width: 111px;
+  height: 111px;
+  margin-top: -55.5px;
+  left: 3500px; }
+  #venus img {
+    -webkit-animation: rotate 121.5s linear infinite normal;
+    animation: rotate 121.5s linear infinite normal; }
+
+/*Earth and its moon */
+#earth {
+  width: 92px;
+  height: 92px;
+  margin-top: -46px;
+  left: 5000px; }
+  #earth img {
+    -webkit-animation: rotate 0.5s linear infinite reverse;
+    animation: rotate 0.5s linear infinite reverse; }
 
 #testorbit {
   -webkit-animation: rotate 10s linear infinite reverse;
   animation: rotate 10s linear infinite reverse;
-  position: absolute;
-  width: 62px;
-  height: 62px;
-  margin-top: -46.5px;
-  margin-left: -15.5px;
+  position: relative;
+  width: 120px;
+  height: 120px;
+  top: -105px;
+  left: -15px;
   border-radius: 100%; }
 
 #testmoon {
